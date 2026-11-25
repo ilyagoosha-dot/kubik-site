@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://xn--3-wtb.com/sitemap.xml
